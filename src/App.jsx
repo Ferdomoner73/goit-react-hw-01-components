@@ -7,7 +7,7 @@ import user from './components/Profile/user.json';
 import friends from './components/FriendList/friends.json';
 import items from './components/TransactionsHistory/transactions.json';
 
-export const App = () => {
+export const App = ({}) => {
   return (
     <Container>
       <Profile
