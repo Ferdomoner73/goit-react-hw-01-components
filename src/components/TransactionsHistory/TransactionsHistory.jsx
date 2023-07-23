@@ -5,7 +5,7 @@ import { Table, TableHeader, TableHeaderItem, TableBody } from './transctionsHis
  
 export const TransactionsHistory = ({ items }) => {
     return (
-        <Table>
+<Table>
   <thead>
     <TableHeader>
       <TableHeaderItem>Type</TableHeaderItem>
